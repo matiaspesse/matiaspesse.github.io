@@ -17,6 +17,16 @@
     </item>
     
     <item>
+      <title>Perfil Spotify</title>
+      <link>/docs/post4/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>/docs/post4/</guid>
+      <description>Link perfil https://open.spotify.com/artist/2sMlUDq7iMqcSmBhdSNduF?si=GF3vFz8FRuaNLQg9Xdd0qQ
+Foto perfil </description>
+    </item>
+    
+    <item>
       <title>4015 ST / Einpunktstuhl, Bellmann-Stuhl</title>
       <link>/docs/post3/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
@@ -41,15 +51,6 @@
       
       <guid>/docs/markdown/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
-    </item>
-    
-    <item>
-      <title>Perfil spotify</title>
-      <link>/docs/post2/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>/docs/post2/</guid>
-      <description>La actividad la cual hago mayoritariamente en mi tiempo libre. La cual es impulsar mi carrera como artista.</description>
     </item>
     
   </channel>
