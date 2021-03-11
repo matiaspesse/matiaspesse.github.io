@@ -8,12 +8,21 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Perfil spotify</title>
+      <title>Araignée, ca. 1958</title>
       <link>/docs/post1/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>/docs/post1/</guid>
-      <description>La actividad la cual hago mayoritariamente en mi tiempo libre. La cual es impulsar mi carrera como artista.</description>
+      <description>Contexto Fabricacion y materiales Una telaraña hecha de cuerdas elasticas de algodon, estas se despliegan sobre una base circular metalica y tubular formando la telaraña hacia el centro, en la circunferencia salen tres patas del mismo material.</description>
+    </item>
+    
+    <item>
+      <title>4015 ST / Einpunktstuhl, Bellmann-Stuhl</title>
+      <link>/docs/post3/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>/docs/post3/</guid>
+      <description>Contexto La silla de un punto, creada por Hans Bellman, fue una de las primeras sillas con una carcasa de asientos multiples curvas hecho de una unica pieza. Esta creacion fue una ocurrencia repentina de Bellman al ver el soporte de un portaequipajes.</description>
     </item>
     
     <item>
@@ -32,6 +41,15 @@
       
       <guid>/docs/markdown/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Perfil spotify</title>
+      <link>/docs/post2/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>/docs/post2/</guid>
+      <description>La actividad la cual hago mayoritariamente en mi tiempo libre. La cual es impulsar mi carrera como artista.</description>
     </item>
     
   </channel>
