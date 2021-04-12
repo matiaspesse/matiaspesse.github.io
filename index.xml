@@ -13,35 +13,8 @@
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>/docs/post1/</guid>
-      <description>Contexto Fabricacion y materiales Una telaraña hecha de cuerdas elasticas de algodon, estas se despliegan sobre una base circular metalica y tubular formando la telaraña hacia el centro, en la circunferencia salen tres patas del mismo material.</description>
-    </item>
-    
-    <item>
-      <title>Familia mobiliaria</title>
-      <link>/docs/post6/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>/docs/post6/</guid>
-      <description>Familia mobiliaria</description>
-    </item>
-    
-    <item>
-      <title>Perfil Spotify</title>
-      <link>/docs/post4/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>/docs/post4/</guid>
-      <description>Link perfil https://open.spotify.com/artist/2sMlUDq7iMqcSmBhdSNduF?si=GF3vFz8FRuaNLQg9Xdd0qQ
-Foto perfil </description>
-    </item>
-    
-    <item>
-      <title>Sillas fisicas y digitales</title>
-      <link>/docs/post5/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>/docs/post5/</guid>
-      <description>Entrega A continuacion veran un pdf el cual muestra primero, la silla original, luego croquis con el fin de entender las dimensiones, despues la misma silla en formato digital, para luego poder replicar la silla en un modelo fisio hecho de alambre.</description>
+      <description>Contexto No hay info sobre su contexto
+Fabricacion y materiales Una telaraña hecha de cuerdas elasticas de algodon, estas se despliegan sobre una base circular metalica y tubular formando la telaraña hacia el centro, en la circunferencia salen tres patas del mismo material.</description>
     </item>
     
     <item>
@@ -51,6 +24,33 @@ Foto perfil </description>
       
       <guid>/docs/post3/</guid>
       <description>Contexto La silla de un punto, creada por Hans Bellman, fue una de las primeras sillas con una carcasa de asientos multiples curvas hecho de una unica pieza. Esta creacion fue una ocurrencia repentina de Bellman al ver el soporte de un portaequipajes.</description>
+    </item>
+    
+    <item>
+      <title>Propuesta grupal</title>
+      <link>/docs/post5/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>/docs/post5/</guid>
+      <description>Propuesta Nuestra propuesta como grupo es poder tener un mobiliario de calidad, barato y que sea esteticamente agradable que pueda amoldarse o adaptarse a espacios pequeños, el cual es un tema que en Chile puede ayudar bastante.</description>
+    </item>
+    
+    <item>
+      <title>Diseño Personal</title>
+      <link>/docs/pos6/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>/docs/pos6/</guid>
+      <description>Croquis Renders PDF  Ver Pantalla Completa  function myFunction(id) { document.getElementById(id).classList.add(&#34;full-screen&#34;); } document.addEventListener(&#39;keydown&#39;, function(event){ if(event.key === &#34;Escape&#34;){ document.getElementById(&#39;pdf-hugo&#39;).classList.remove(&#34;full-screen&#34;); } });  </description>
+    </item>
+    
+    <item>
+      <title>Familia final</title>
+      <link>/docs/post7/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>/docs/post7/</guid>
+      <description>NOMADE Presentacion  Ver Pantalla Completa  function myFunction(id) { document.getElementById(id).classList.add(&#34;full-screen&#34;); } document.addEventListener(&#39;keydown&#39;, function(event){ if(event.key === &#34;Escape&#34;){ document.getElementById(&#39;pdf-hugo&#39;).classList.remove(&#34;full-screen&#34;); } });  Renders finales Plegado Desplegado </description>
     </item>
     
     <item>
@@ -69,6 +69,16 @@ Foto perfil </description>
       
       <guid>/docs/markdown/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Perfil Spotify</title>
+      <link>/docs/post4/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>/docs/post4/</guid>
+      <description>Link perfil https://open.spotify.com/artist/2sMlUDq7iMqcSmBhdSNduF?si=GF3vFz8FRuaNLQg9Xdd0qQ
+Foto perfil Esto es una foto antigua, actualmente tengo mas reproducciones :D</description>
     </item>
     
   </channel>
