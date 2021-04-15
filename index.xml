@@ -72,6 +72,15 @@ Fabricacion y materiales Una telaraña hecha de cuerdas elasticas de algodon, es
     </item>
     
     <item>
+      <title>Post 2.0</title>
+      <link>/docs/post8/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>/docs/post8/</guid>
+      <description>Ver Pantalla Completa  function myFunction(id) { document.getElementById(id).classList.add(&#34;full-screen&#34;); } document.addEventListener(&#39;keydown&#39;, function(event){ if(event.key === &#34;Escape&#34;){ document.getElementById(&#39;pdf-hugo&#39;).classList.remove(&#34;full-screen&#34;); } });  https://www.canva.com/design/DAEbshbhcAQ/share/preview?token=ztwezbb9uS4jNwRxkiubmA&amp;amp;role=EDITOR&amp;amp;utm_content=DAEbshbhcAQ&amp;amp;utm_campaign=designshare&amp;amp;utm_medium=link&amp;amp;utm_source=sharebutton</description>
+    </item>
+    
+    <item>
       <title>Perfil Spotify</title>
       <link>/docs/post4/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
