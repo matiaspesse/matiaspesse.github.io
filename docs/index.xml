@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Taller Integrado MID 2021 on Nombre Apellido - MID 2021</title>
+    <title>Docs on Nombre Apellido - MID 2021</title>
     <link>/docs/</link>
-    <description>Recent content in Taller Integrado MID 2021 on Nombre Apellido - MID 2021</description>
+    <description>Recent content in Docs on Nombre Apellido - MID 2021</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Araignée, ca. 1958</title>
       <link>/docs/post1/</link>
@@ -81,12 +81,58 @@ Fabricacion y materiales Una telaraña hecha de cuerdas elasticas de algodon, es
     </item>
     
     <item>
+      <title>Post 2.1</title>
+      <link>/docs/post14/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>/docs/post14/</guid>
+      <description>Fotogrametria 1    </description>
+    </item>
+    
+    <item>
       <title>Post 2.3</title>
       <link>/docs/post-9/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>/docs/post-9/</guid>
-      <description>Forma Digital Forma Fisica Recap    </description>
+      <description>Forma Digital Forma Fisica Recap </description>
+    </item>
+    
+    <item>
+      <title>Post 2.4</title>
+      <link>/docs/post10/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>/docs/post10/</guid>
+      <description>Preparacion En esta ocasion quize experimentar con masas, dandole distintas formas y entendiendo su moldaje.
+Resultado final </description>
+    </item>
+    
+    <item>
+      <title>Post 2.5</title>
+      <link>/docs/post11/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>/docs/post11/</guid>
+      <description>Entrega final Fotos del resultado final del plato </description>
+    </item>
+    
+    <item>
+      <title>Post 2.6</title>
+      <link>/docs/post12/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>/docs/post12/</guid>
+      <description>Entrega final Fotos del resultado final del plato de manera digital</description>
+    </item>
+    
+    <item>
+      <title>Post 3.0</title>
+      <link>/docs/post13/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>/docs/post13/</guid>
+      <description>Investigacion y referentes  Ver Pantalla Completa  function myFunction(id) { document.getElementById(id).classList.add(&#34;full-screen&#34;); } document.addEventListener(&#39;keydown&#39;, function(event){ if(event.key === &#34;Escape&#34;){ document.getElementById(&#39;pdf-hugo&#39;).classList.remove(&#34;full-screen&#34;); } });  </description>
     </item>
     
     <item>
